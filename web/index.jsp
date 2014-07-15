@@ -1,20 +1,5 @@
-<%-- 
-    Document   : index
-    Created on : Jul 14, 2014, 2:59:20 PM
-    Author     : bidur
---%>
 
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html lang="en">
-    <jsp:include page="head_conf.jsp" />
-    <body>
-        <!-- Navbar
-          ================================================== -->
-        <jsp:include page="navbar.jsp" />
-        <!-- ======================================================================================================================== -->	
-        <div id="mainBody" class="container">
-            <jsp:include page="header.jsp" />
+            <jsp:include page="header2.jsp" />
             <!-- ==================================================Header End====================================================================== -->
             <jsp:include page="carousel.jsp" />
 
